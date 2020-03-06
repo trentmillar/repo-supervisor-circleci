@@ -1,2 +1,3 @@
 # repo-supervisor-circleci
-Test new changes to https://github.com/auth0/repo-supervisor in CircleCI
+
+Test new/breaking changes to https://github.com/auth0/repo-supervisor in CircleCI
